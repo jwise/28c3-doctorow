@@ -17,6 +17,10 @@ transcript is more free, as permitted.  You may provide me transcript
 attribution if you like, or if it does not make sense given the context, you
 can simply give Cory Doctorow original author attribution.
 
+If you simply wish to read the transcript, you may wish to [read a version
+that has been formatted for screen viewing, on my web
+site](http://joshuawise.com/28c3-transcript).
+
 * * *
 
 Introducer:
