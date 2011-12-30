@@ -250,7 +250,7 @@ we aren't allowed to write down on the Internet, programs we're not allowed
 to publish, and all it takes to make legitimate material disappear from the
 Internet is to say "that?  That infringes copyright.".  It fails to attain
 the actual goal of the regulation; it doesn't stop people from violating
-copyright, but it bares a kind of superficial resemblance to copyright
+copyright, but it bears a kind of superficial resemblance to copyright
 enforcement -- it satisfies the security syllogism: "something must be done,
 I am doing something, something has been done." And thus any failures that
 arise can be blamed on the idea that the regulation doesn't go far enough,
