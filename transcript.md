@@ -70,7 +70,7 @@ that were difficult to copy, and of course these failed, for two reasons.
 First, they were commercially unpopular, of course, because they reduced the
 usefulness of the software to the legitimate purchasers, while leaving the
 people who took the software without paying for it untouched.  The
-legitimate purchasers resented the nonfunctionality of their backups, they
+legitimate purchasers resented the non-functionality of their backups, they
 hated the loss of scarce ports to the authentication dongles, and they
 resented the inconvenience of having to transport large manuals when they
 wanted to run their software.  And second, these didn't stop pirates, who
@@ -84,7 +84,7 @@ recalcitrant programs were doing, and routing around the defects in shitty
 floppy disk media were both core skills for computer programmers, and were
 even more so in the era of fragile floppy disks and the rough-and-ready
 early days of software development.  Anti-copying strategies only became
-more fraught as networks spread; once we had BBSes, online servies, USENET
+more fraught as networks spread; once we had BBSes, online services, USENET
 newsgroups, and mailing lists, the expertise of people who figured out how
 to defeat these authentication systems could be packaged up in software as
 little crack files, or, as the network capacity increased, the cracked disk
@@ -339,7 +339,7 @@ copyright, and the internet, and it may seem like if we defeat SOPA, we'll
 be well on our way to securing the freedom of PCs and networks.  But as I
 said at the beginning of this talk, this isn't about copyright, because the
 copyright wars are just the 0.9 beta version of the long coming war on
-computation.  The entertainment industry were just the first belligerants in
+computation.  The entertainment industry were just the first belligerents in
 this coming century-long conflict.  We tend to think of them as particularly
 successful -- after all, here is SOPA, trembling on the verge of passage,
 and breaking the internet on this fundamental level in the name of
@@ -369,7 +369,7 @@ health emergencies on first nations reservations, exploiting the oil patch
 in Alberta, interceding in sectarian resentments among French- and
 English-speakers, solving resources crises in the nation's fisheries, and
 thousand other issues!  The triviality of copyright tells you that when
-other sectors of the economy start to evince converns about the internet and
+other sectors of the economy start to evince concerns about the internet and
 the PC, that copyright will be revealed for a minor skirmish, and not a war. 
 Why would other sectors nurse grudges against computers?  Well, because the
 world we live in today is /made/ of computers.  We don't have cars anymore,
