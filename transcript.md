@@ -199,7 +199,7 @@ course of doing its work, it will have lots of effects on everything else.
 If I wanted Congress to write, or Parliament to write, or the E.U. to
 regulate a wheel, it's unlikely I'd succeed.  If I turned up and said "well,
 everyone knows that wheels are good and right, but have you noticed that
-ever single back robber has four wheels on his car when he drives away from
+every single bank robber has four wheels on his car when he drives away from
 the bank robbery?  Can't we do something about this?", the answer would of
 course be "no".  Because we don't know how to make a wheel that is still
 generally useful for legitimate wheel applications but useless to bad guys. 
