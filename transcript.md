@@ -11,9 +11,11 @@ submit pull requests to correct them!
 
 Times are always marked in [[double square brackets]].
 
-The original content was licensed under Creative Commons BY-NC-ND.  This
-transcription produced by explicit permission from Cory Doctorow.  The
-license is, then, "at least as free" as BY-NC-ND.
+The original content was licensed under Creative Commons CC-BY
+(http://boingboing.net/2011/12/30/transcript-of-my-28c3-keynote.html); this
+transcript is more free, as permitted.  You may provide me transcript
+attribution if you like, or if it does not make sense given the context, you
+can simply give Cory Doctorow original author attribution.
 
 * * *
 
