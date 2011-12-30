@@ -177,7 +177,7 @@ lawmakers are either clueless or evil, or possibly evilly clueless, and just
 leave it there, which is not a very satisfying place to go, because it's
 fundamentally a council of despair; it suggests that our problems cannot be
 solved for so long as stupidity and evilness are present in the halls of
-problem, which is to say they will never be solved.  But I have another
+power, which is to say they will never be solved.  But I have another
 theory about what's happened.
 
 [[644.4]] It's not that regulators don't understand information technology,
