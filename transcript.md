@@ -211,7 +211,7 @@ changing wheels.  Even if there were an /epidemic/ of bank robberies, even
 if society were on the verge of collapse thanks to bank robberies, no-one
 would think that wheels were the right place to start solving our problems. 
 
-[[762.0]  But.  If I were to show up in that same body to say that I had
+[[762.0]]  But.  If I were to show up in that same body to say that I had
 absolute proof that hands-free phones were making cars dangerous, and I
 said, "I would like you to pass a law that says it's illegal to put a
 hands-free phone in a car", the regulator might say "Yeah, I'd take your
