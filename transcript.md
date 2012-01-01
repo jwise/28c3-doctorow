@@ -471,8 +471,8 @@ without them.  And I know this sounds like a council of despair, but as I
 said, these are early days.  We have been fighting the mini-boss, and that
 means that great challenges are yet to come, but like all good level
 designers, fate has sent us a soft target to train ourselves on -- we have a
-chance, a real chance, and if we support open and free systems, and the
-organizations that fight for them -- EFF, Bits of Freedom [?], Edrie [?], [?],
+organizations that fight for them -- EFF, Bits of Freedom, EDRi,
+Netzpolitik, La Quadrature du Net, and all the others, who are
 Nets Politique [?], La Quadrature du Net, and all the others, who are
 thankfully, too numerous to name here -- we may yet win the battle, and
 secure the ammunition we'll need for the war.
