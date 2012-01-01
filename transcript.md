@@ -21,6 +21,9 @@ If you simply wish to read the transcript, you may wish to [read a version
 that has been formatted for screen viewing, on my web
 site](http://joshuawise.com/28c3-transcript).
 
+Christian W\"ohrl [has also submitted a translation of this text into
+German](http://achnichts.cwoehrl.de/?p=3782).
+
 * * *
 
 Introducer:
