@@ -55,7 +55,7 @@ but to be honest, I'm quite sick of them.  If you want to hear freelancer
 writers like me bang on about what's happening to the way we earn our
 living, by all means, go and find one of the many talks I've done on this
 subject on YouTube.  But, tonight, I want to talk about something more
-important -- I want talk to talk about general purpose computers.
+important -- I want to talk about general purpose computers.
 
 Because general purpose computers are, in fact, astounding -- so astounding
 that our society is still struggling to come to grips with them: to figure
@@ -147,7 +147,7 @@ extract media cleartexts from the unlocking programs while they were
 running, and it created laws that made it illegal to tell people how to
 extract secrets from unlocking programs, and created laws that made it
 illegal to host copyrighted works and secrets and all with a handy
-streamlined process that let you remove stuff from the internet without
+streamlined process that let you remove stuff from the Internet without
 having to screw around with lawyers, and judges, and all that crap.  And
 with that, illegal copying ended forever [audience laughs very hard,
 applauds], the information economy blossomed into a beautiful flower that
@@ -184,7 +184,7 @@ regulation aimed at shoring up the failure of the old one.  Now, it's
 tempting to stop the story here and conclude that the problem is that
 lawmakers are either clueless or evil, or possibly evilly clueless, and just
 leave it there, which is not a very satisfying place to go, because it's
-fundamentally a council of despair; it suggests that our problems cannot be
+fundamentally a counsel of despair; it suggests that our problems cannot be
 solved for so long as stupidity and evilness are present in the halls of
 power, which is to say they will never be solved.  But I have another
 theory about what's happened.
@@ -257,7 +257,7 @@ regulators go off, and they blithely pass these laws, and they become part
 of the reality of our technological world.  There are suddenly numbers that
 we aren't allowed to write down on the Internet, programs we're not allowed
 to publish, and all it takes to make legitimate material disappear from the
-Internet is to say "that?  That infringes copyright.".  It fails to attain
+Internet is to say "that?  That infringes copyright."  It fails to attain
 the actual goal of the regulation; it doesn't stop people from violating
 copyright, but it bears a kind of superficial resemblance to copyright
 enforcement -- it satisfies the security syllogism: "something must be done,
@@ -344,7 +344,7 @@ America, too!
 [audience laughs and applauds] Don't applaud me, applaud the MPAA!
 
 [[1221.5]] Now, it may seem like SOPA is the end game in a long fight over
-copyright, and the internet, and it may seem like if we defeat SOPA, we'll
+copyright, and the Internet, and it may seem like if we defeat SOPA, we'll
 be well on our way to securing the freedom of PCs and networks.  But as I
 said at the beginning of this talk, this isn't about copyright, because the
 copyright wars are just the 0.9 beta version of the long coming war on
@@ -374,11 +374,11 @@ copyright is just not important to pretty much everyone!  [applause]
 
 [[1350.3]] Canada's Parliament didn't vote on its copyright bills because,
 of all the things that Canada needs to do, fixing copyright ranks well below
-health emergencies on first nations reservations, exploiting the oil patch
+health emergencies on First Nations reservations, exploiting the oil patch
 in Alberta, interceding in sectarian resentments among French- and
 English-speakers, solving resources crises in the nation's fisheries, and
 thousand other issues!  The triviality of copyright tells you that when
-other sectors of the economy start to evince concerns about the internet and
+other sectors of the economy start to evince concerns about the Internet and
 the PC, that copyright will be revealed for a minor skirmish, and not a war. 
 Why would other sectors nurse grudges against computers?  Well, because the
 world we live in today is /made/ of computers.  We don't have cars anymore,
@@ -470,7 +470,7 @@ servants to our will, and not as traitors and spies working for criminals,
 thugs, and control freaks.  And we haven't lost yet, but we have to win the
 copyright wars to keep the Internet and the PC free and open.  Because these
 are the materiel in the wars that are to come, we won't be able to fight on
-without them.  And I know this sounds like a council of despair, but as I
+without them.  And I know this sounds like a counsel of despair, but as I
 said, these are early days.  We have been fighting the mini-boss, and that
 means that great challenges are yet to come, but like all good level
 designers, fate has sent us a soft target to train ourselves on -- we have a
