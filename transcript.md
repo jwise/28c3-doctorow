@@ -374,10 +374,10 @@ copyright is just not important to pretty much everyone!  [applause]
 
 [[1350.3]] Canada's Parliament didn't vote on its copyright bills because,
 of all the things that Canada needs to do, fixing copyright ranks well below
-health emergencies on First Nations reservations, exploiting the oil patch
+resolving health emergencies on First Nations reservations, exploiting the oil patch
 in Alberta, interceding in sectarian resentments among French- and
 English-speakers, solving resources crises in the nation's fisheries, and
-thousand other issues!  The triviality of copyright tells you that when
+a thousand other issues!  The triviality of copyright tells you that when
 other sectors of the economy start to evince concerns about the Internet and
 the PC, that copyright will be revealed for a minor skirmish, and not a war. 
 Why would other sectors nurse grudges against computers?  Well, because the
