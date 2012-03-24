@@ -4,6 +4,10 @@ Presented at 28C3
 
 Transcribed by Joshua Wise <joshua@joshuawise.com>.
 
+A video recording is available:
+- on [youtube][youtube-recording], and
+- as a high quality [MP4][mp4-recording]
+
 This transcription attempts to be faithful to the original, but disfluencies
 have generally been removed (except where they appear to contribute to the
 text).  Some words may have been mangled by the transcription; feel free to
@@ -482,3 +486,9 @@ ammunition we'll need for the war.
 [[1778.9]] Thank you.
 
 [sustained applause]
+
+
+* * *
+
+   [youtube-recording]: https://www.youtube.com/watch?v=HUEvRyemKSg
+   [mp4-recording]: http://mirror.fem-net.de/CCC/28C3/mp4-h264-HQ/28c3-4848-en-the_coming_war_on_general_computation_h264.mp4
