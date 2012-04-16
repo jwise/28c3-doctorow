@@ -330,10 +330,10 @@ systems, noting that repressive governments will likely withhold signatures
 from OSes unless they have covert surveillance operations.
 
 [[1175.5]] And on the network side, attempts to make a network that can't be
-used for copyright infringement always converges with the surveillance
-measures that we know from repressive governments.  So, SOPA, the U.S. Stop
+used for copyright infringement always converges with the surveillance and control
+measures that we know from repressive governments.  So, SOPA, the American U.S. Stop
 Online Piracy Act, bans tools like DNSSec because they can be used to defeat
-DNS blocking measures.  And it blocks tools like Tor, because they can be
+DNS blocking measures.  And it bans tools like Tor, because they can be
 used to circumvent IP blocking measures.  In fact, the proponents of SOPA,
 the Motion Picture Association of America, circulated a memo, citing
 research that SOPA would probably work, because it uses the same measures as
@@ -357,11 +357,11 @@ preserving Top 40 music, reality TV shows, and Ashton Kutcher movies!
 
 [[1270.2]] But the reality is, copyright legislation gets as far as it does
 precisely because it's not taken seriously, which is why on one hand, Canada
-has had Parliament after Parliament introduce one stupid copyright bill
+has had Parliament after Parliament introduce one stupid copyright law
 after another, but on the other hand, Parliament after Parliament has failed
 to actually vote on the bill.  It's why we got SOPA, a bill composed of pure
 stupid, pieced together molecule-by-molecule, into a kind of "Stupidite
-250", which is normally only found in the heart of newborn star, and it's
+250", that is normally only found in the heart of a newborn star, and it's
 why these rushed-through SOPA hearings had to be adjourned midway through
 the Christmas break, so that lawmakers could get into a real vicious
 nationally-infamous debate over an important issue, unemployment insurance. 
@@ -424,16 +424,16 @@ programs that cause specialized peripherals to output organisms that eat
 their lunch... literally.  Regardless of whether you think these are real
 problems or merely hysterical fears, they are nevertheless the province of
 lobbies and interest groups that are far more influential than Hollywood and
-big content are on their best days, and every one of them will arrive at the
+big content are on their best day, and every one of them will arrive at the
 same place -- "can't you just make us a general purpose computer that runs
-all the programs, except the ones that scare and anger us?  Can't you just
+all the programs, except for the ones that scare and anger us?  Can't you just
 make us an Internet that transmits any message over any protocol between any
 two points, unless it upsets us?"
 
 [[1576.3]] And personally, I can see that there will be programs that run on
 general purpose computers and peripherals that will even freak me out.  So I
 can believe that people who advocate for limiting general purpose computers
-will find receptive audience for their positions.  But just as we saw with
+will find receptive audiences for their positions.  But just as we saw with
 the copyright wars, banning certain instructions, or protocols, or messages,
 will be wholly ineffective as a means of prevention and remedy; and as we
 saw in the copyright wars, all attempts at controlling PCs will converge on
@@ -472,8 +472,9 @@ copyright wars to keep the Internet and the PC free and open.  Because these
 are the materiel in the wars that are to come, we won't be able to fight on
 without them.  And I know this sounds like a counsel of despair, but as I
 said, these are early days.  We have been fighting the mini-boss, and that
-means that great challenges are yet to come, but like all good level
-designers, fate has sent us a soft target to train ourselves on -- we have a
+means great challenges are yet to come, but like all good level
+designers, fate has sent us a soft target to train ourselves on -- we have a chance,
+a real chance, and if we support open and free systems and the
 organizations that fight for them -- EFF, Bits of Freedom, EDRi, CCC,
 Netzpolitik, La Quadrature du Net, and all the others, who are thankfully,
 too numerous to name here -- we may yet win the battle, and secure the
