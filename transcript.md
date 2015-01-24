@@ -469,7 +469,7 @@ terminate the processes that run on them, to maintain them as honest
 servants to our will, and not as traitors and spies working for criminals,
 thugs, and control freaks.  And we haven't lost yet, but we have to win the
 copyright wars to keep the Internet and the PC free and open.  Because these
-are the material in the wars that are to come, we won't be able to fight on
+are the materiel in the wars that are to come, we won't be able to fight on
 without them.  And I know this sounds like a counsel of despair, but as I
 said, these are early days.  We have been fighting the mini-boss, and that
 means great challenges are yet to come, but like all good level
